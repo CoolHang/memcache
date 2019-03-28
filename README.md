@@ -1,0 +1,2 @@
+# memcache
+方法
